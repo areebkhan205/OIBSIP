@@ -14,6 +14,7 @@ It uses **HTML**, **CSS**, and **Tailwind CSS** to create a clean, structured, a
 - Built using:
   - HTML5
   - CSS3
+  - java-script
   - Tailwind CSS (core)
 - Smooth layout & typography
 
